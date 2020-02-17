@@ -1,1 +1,1 @@
-# react-landing-page-company
+# Template de Landing page para empresa
