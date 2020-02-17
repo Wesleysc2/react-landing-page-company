@@ -1,1 +1,1 @@
-# Template de Landing page para empresa
+# Template de Landing page para empresa utilizando ReactJS
